@@ -4,7 +4,7 @@
 The file is in .xlsx format. For proper viewing, please open it with Microsoft Excel.
 
 ### Description
-This project includes a STD file with written test cases for functional and non-functional tests of the ReFormat application, version 7.9. The work was conducted using Agile testing methodology in collaboration with 2 of my teammates.
+Lead collection system, this project includes a STD file with written test cases for functional and non-functional tests of the ReFormat application, version 7.9. The work was conducted using Agile testing methodology in Collaborating and leading with a team of 2.
 
 ### Features
 - STD file
